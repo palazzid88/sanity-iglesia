@@ -3,6 +3,7 @@ import evento from './evento'
 import noticia from './noticia'
 import obrero from './obrero'
 import pedidosDeOracion from './pedidosDeOracion'
+import versiculo from './versiculo'
 
 // exportamos todos los schemas juntos
 export const schemaTypes = [
@@ -10,6 +11,7 @@ export const schemaTypes = [
   evento,
   noticia,
   pedidosDeOracion,
-  obrero
+  obrero,
+  versiculo
   // más schemas luego
 ]
