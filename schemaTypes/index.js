@@ -17,3 +17,4 @@ export const schemaTypes = [
   galeria
   // más schemas luego
 ]
+
