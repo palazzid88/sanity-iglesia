@@ -1,3 +1,4 @@
+import anexos from './anexos'
 import anuncio from './anuncio'
 import evento from './evento'
 import galeria from './galeria'
@@ -14,7 +15,8 @@ export const schemaTypes = [
   pedidosDeOracion,
   obrero,
   versiculo,
-  galeria
+  galeria,
+  anexos
   // más schemas luego
 ]
 
