@@ -1,5 +1,6 @@
 import anuncio from './anuncio'
 import evento from './evento'
+import galeria from './galeria'
 import noticia from './noticia'
 import obrero from './obrero'
 import pedidosDeOracion from './pedidosDeOracion'
@@ -12,6 +13,7 @@ export const schemaTypes = [
   noticia,
   pedidosDeOracion,
   obrero,
-  versiculo
+  versiculo,
+  galeria
   // más schemas luego
 ]
